@@ -1,7 +1,7 @@
 # 备份留念
 当前repo 是整理后的早期基于FasterTransformer 搭建glm-10b-chinese 模型server 相关代码
 
-===========================================================================
+==========================================================================
 
 # glm-10b-chinese server 
 glm-10b-chinese 目前主要有两种server 形式：基于transformers版本与基于FasterTransformer版本。
