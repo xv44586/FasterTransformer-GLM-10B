@@ -1,0 +1,5 @@
+outs:
+- md5: a98569c8c069a2337ae4d466b766c7b2.dir
+  size: 19759378936
+  nfiles: 2
+  path: glm_10b_chinese
